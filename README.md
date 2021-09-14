@@ -1,0 +1,2 @@
+# loan-prediction
+Primary Goal: predict the person able to get the loan or not.   Solution: By providing the details of the customers like credit history, loan amount, salary. With the concepts of machine learning to process the data with the techniques of feature engineering, feature selection and created a model with a Gradient Boosting Algorithm.   Result:  The model performed best with precision 82%, recall 87% &amp; accuracy 89% 
